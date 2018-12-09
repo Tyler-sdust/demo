@@ -1,3 +1,3 @@
 # demo
-demo演示
+Github使用教程演示
 ========
